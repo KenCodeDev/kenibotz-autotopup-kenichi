@@ -1,0 +1,51 @@
+{
+    "botName": "Kenichi Store",
+    "ownerName": "Kenichi Store", 
+    "youtubeName": "Kenichi Store",
+    "footer": "Kenichi Store",
+    "owncek" : "Kenichi Store",
+    "ownerNumber": ["6287777686631@s.whatsapp.net"],
+    "ownerNumber2": ["6281917003534@s.whatsapp.net"],
+    "ownnumber": "6287777686631",
+    "pathimg": "./temp/logo.jpg",
+    "logoafk": "./temp/afk.jpg",
+    "youtube": "https://gada.com",
+    "lolhuman_apikey": "",
+    "digiflazz": {
+        "username": "kesetigxLY9g",
+        "live": true,
+        "apikey": {
+            "production": "06c00532-d307-56fd-9b3f-9218bddf64e8",
+            "development": "dev-f05af2c0-87a5-11ed-9b20-516931b81395"
+        }
+    },
+    "tripay": {
+        "merchant": "T15833",
+        "apikey": "oO4JfZqn2VdYS6tjbjdKsKgxnHQ6DuclJhIHLF5u",
+        "privatekey": "xFBdU-azllx-7xUvt-CCUpO-ppe88"
+    },
+    "set_markup": "5",
+    "session_name": "session",
+    "apigames": {
+        "merchant_id": "M220701GCNQ3515CR",
+        "signature": "7e5222d15d769ea3c758df43b4da7c54"
+    },
+    "transaksi_data": {
+        "ref_id": "KenichiStore",
+        "ownerName": "KenichiDeveloper"
+    },
+    "mess": {
+        "wait": "*Mohon Tunggu*",
+        "error": {
+            "Iv": "Link yang kamu berikan tidak valid",
+            "api": "Maaf Sedang Error"
+        },
+        "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+        "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+        "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+        "BotAdmin": "Bot Harus menjadi admin",
+        "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+        "OnlyPrem": "Perintah ini khusus member premium",
+        "sewaBot": "Chat Owner Untuk Sewa Bot, Nomor Owner wa.me/6287777686631"
+    }
+} 
